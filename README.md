@@ -1,2 +1,19 @@
-# My-Own-REAL-TIME-RESTAURANT-WEBSITE---DESI-VIBES
-This project is a real-time website for my father's restaurant, developed using HTML, CSS, JS, and MySQL. It allows users to book tables, place event orders, and contact the restaurant for inquiries through an online form.
+Restuarant Name :- Real Time Restaurant website DESI VIBES
+It is real time restaurant Website which is located in Gandhinagar. In this website it contains Home,Menu, Gallery, On Going Events details, Testimonials, Map location, Contact Us, Book a table etc like this. 
+# Frontend
+HTML
+CSS
+JS
+
+# Backend
+Node js and MongoDB
+
+# Used libraries
+- JavaScript
+- CSS
+- Bootstrap5
+- Bootstrap-icons
+- Swiper
+- Isotope
+- Animate.css
+
